@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">InstagramClone</string>
+    <string name="entrar">Entrar</string>
+    <string name="cadastrar">Cadastre-se</string>
+    <string name="email">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="nome">Nome</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="abrir_galeria">Abrir Galeria</string>
+    <string name="abrir_camera">Abrir Camera</string>
+</resources>

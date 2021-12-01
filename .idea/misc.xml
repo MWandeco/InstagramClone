@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Wanderzin/AndroidStudioProjects/InstagramClone/app/src/main/res/drawable-v24/ic_heart_cinza.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/Wanderzin/AndroidStudioProjects/InstagramClone/app/src/main/res/drawable/bg_botao.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/Wanderzin/AndroidStudioProjects/InstagramClone/app/src/main/res/drawable/bg_botao_perfil.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/Wanderzin/AndroidStudioProjects/InstagramClone/app/src/main/res/drawable/bg_caixa_comentario.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/Wanderzin/AndroidStudioProjects/InstagramClone/app/src/main/res/drawable/bg_caixadetexto.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/Wanderzin/AndroidStudioProjects/InstagramClone/app/src/main/res/drawable/bg_cinza.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/Wanderzin/AndroidStudioProjects/InstagramClone/app/src/main/res/drawable/bg_degrade.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/Wanderzin/AndroidStudioProjects/InstagramClone/app/src/main/res/drawable/bg_red.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/Wanderzin/AndroidStudioProjects/InstagramClone/app/src/main/res/drawable/ic_heart_vermelho.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/Wanderzin/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/activity_cadastro.xml" value="0.2463768115942029" />
+        <entry key="..\:/Users/Wanderzin/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/activity_comentarios.xml" value="0.2391304347826087" />
+        <entry key="..\:/Users/Wanderzin/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/activity_editar_perfil.xml" value="0.264" />
+        <entry key="..\:/Users/Wanderzin/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/activity_filtro.xml" value="0.19610507246376813" />
+        <entry key="..\:/Users/Wanderzin/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/activity_login.xml" value="0.2463768115942029" />
+        <entry key="..\:/Users/Wanderzin/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/activity_main.xml" value="0.2463768115942029" />
+        <entry key="..\:/Users/Wanderzin/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/activity_perfil_amigo.xml" value="0.2128623188405797" />
+        <entry key="..\:/Users/Wanderzin/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/activity_visualizar_postagem.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Wanderzin/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/adapter_comentario.xml" value="0.2391304347826087" />
+        <entry key="..\:/Users/Wanderzin/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/adapter_feed.xml" value="0.4" />
+        <entry key="..\:/Users/Wanderzin/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/adapter_filtros.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Wanderzin/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/adapter_pesquisa_usuario.xml" value="0.4" />
+        <entry key="..\:/Users/Wanderzin/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/bottom_navigation.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/Wanderzin/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/carregamento.xml" value="0.264" />
+        <entry key="..\:/Users/Wanderzin/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/fragment_feed.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/Wanderzin/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/fragment_perfil.xml" value="0.264" />
+        <entry key="..\:/Users/Wanderzin/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/fragment_pesquisa.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/Wanderzin/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/fragment_postagem.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/Wanderzin/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/grid_postagem.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Wanderzin/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/toolbar.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/Wanderzin/AndroidStudioProjects/InstagramClone/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Wanderzin/AndroidStudioProjects/InstagramClone/app/src/main/res/menu/menu_filtro.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Wanderzin/AndroidStudioProjects/InstagramClone/app/src/main/res/menu/menu_main.xml" value="0.25364583333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
